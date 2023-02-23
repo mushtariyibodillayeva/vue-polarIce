@@ -93,3 +93,45 @@ header {
   width: 500px;
   height: 500px;
 }
+
+.purchases {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.card2 {
+  margin: 0 15px;
+}
+.title {
+  margin: 7px 0 0 30px;
+  color: crimson;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.card1,
+.card2,
+.card3 {
+  width: 360px;
+  height: 455px;
+  border: 1.5px solid red;
+  background-color: #fff;
+  border-radius: 20px;
+}
+.add-purchases {
+  color: blue;
+  margin: 5px 0 5px 50px;
+}
+.card-button,
+.card-button2 {
+  width: 100px;
+  height: 25px;
+  color: #fff;
+  border-radius: 5px;
+}
+.card-button {
+  background-color: forestgreen;
+  margin: 0 15px 0 70px;
+}
+.card-button2 {
+  background-color: crimson;
+}
